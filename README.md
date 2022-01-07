@@ -48,3 +48,4 @@ Once the bot is in your server and online, simply use `.rainbow role @Role`. Thi
 
 ## Contributing
 Feel free to submit a pull request and help with the development of this bot
+<img src="https://open.autocode.com/static/images/open.svg?" width="192">](https://open.autocode.com/
